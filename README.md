@@ -1,4 +1,4 @@
-( /date - 22-03-25/
+
 hey everyone!
 i'm learning javascript for making an app which main motive
 is that to connect the people who feels lonely or the kind of people who have more 
