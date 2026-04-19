@@ -1,5 +1,6 @@
 // for loop
-for (let i = 0; i < 10; i++) { // for (initialization; condition; increment/decrement)
+let i;
+for (i = 0; i < 10; i++) { // for (initialization; condition; increment/decrement)
     const a = i;
     if(a === 5) {
         console.log("found 5");
